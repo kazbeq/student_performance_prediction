@@ -1,5 +1,9 @@
 # Student Performance Prediction (ML Semester Project)
 
+Team members:
+Bekova Aiya SIS2208 34814
+Rakhmanov Bekzhan SIS2208 35124
+
 A tabular regression project: predict a student's final performance from demographics and subject scores.
 
 Goal: build a reproducible pipeline with preprocessing (numeric/categorical), baseline and improved models, compare metrics, and export artifacts (joblib/ONNX).
